@@ -1,10 +1,9 @@
 # CyberSource Go Client
-This is the Go client for the [CyberSource SOAP Toolkit API](http://www.cybersource.com/developers/getting_started/integration_methods/soap_toolkit_api).
+This is a Go client for the [CyberSource SOAP Toolkit API](http://www.cybersource.com/developers/getting_started/integration_methods/soap_toolkit_api).
 
 ## Prerequisites
 
 - Go 1.13 or above
-   - [curl](http://php.net/manual/en/book.curl.php), [openssl](http://php.net/manual/en/book.openssl.php), [soap](http://php.net/manual/en/book.soap.php) extensions must be enabled
 - A CyberSource account. You can create an evaluation account [here](http://www.cybersource.com/register/).
 - A CyberSource transaction key.  Instructions on obtaining a transaction key can be found [here](http://www.cybersource.com/developers/integration_methods/simple_order_and_soap_toolkit_api/soap_api/html/wwhelp/wwhimpl/js/html/wwhelp.htm#href=Intro.04.3.html).
 
