@@ -1,9 +1,3 @@
-# Managed by Composer
-/vendor/
-
-# Composer PHAR
-/composer.phar
-/composer.lock
-
-# CyberSource config parameters
-/lib/conf/cybs.ini
+.DS_Store
+.gobincache
+./cybersource-sdk-go
